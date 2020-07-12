@@ -8,5 +8,4 @@ My skill set includes Software Development, Web Development (Full Stack), CI/CD,
 [![gmail badge](https://img.shields.io/badge/Mansehej-30302f?style=flat&logo=gmail&logoColor=white&labelColor=D14836&color=D14836)](mailto:mansehej@gmail.com)
 [![instagram badge](https://img.shields.io/badge/Mansehej-30302f?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F)](https://www.instagram.com/mansehej/)
 [![blogger badge](https://img.shields.io/badge/TheBinaryTree-30302f?style=flat&logo=blogger&logoColor=white&labelColor=FF5722&color=FF5722)](https://www.thebinarytree.com/)
-
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmansehej%2Fhit-counter)
