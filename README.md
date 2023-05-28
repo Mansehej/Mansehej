@@ -1,6 +1,6 @@
 ### Hi, I'm Mansehej 👋
 
-I'm an engineering student from New Delhi, India, looking forward to becoming a software engineer in the near future.
+I'm a full stack engineer currently working as a Senior Engineer at Scribeless.
 
 My skill set includes Software Development, Web Development (Full Stack), CI/CD, Automated Testing (Unit, E2E), Java development, etc. with practical, industry-level work experience in the mentioned fields.
 
